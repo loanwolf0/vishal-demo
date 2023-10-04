@@ -1,0 +1,28 @@
+
+
+  
+
+.nav-links{
+    @apply flex flex-col items-center mr-8 text-[rgb(39,84,115)] hover:text-yellow-500 
+}
+
+
+.nav-mobile{
+    margin-top: 50px;
+    
+}
+.nav-mobile-res{
+    font-size: 16px;
+    background-color: rgb(39,84,115);
+    width: 90%;
+    color: #feb656;
+    opacity: 1;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.nav-mobile-res:hover{
+    cursor: pointer;
+}
+
